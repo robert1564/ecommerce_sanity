@@ -24,10 +24,14 @@ width: 100%;
 }
 .layout{
   padding: 10px;
-
+  
   background-image: url("background.jpg") ;
-  background-position: center; /* Center the image */
+  background-position: center;
   background-size: cover;
+  overflow: auto;
+  width: 100%;
+  height: 100%;
+
 }
 
 
@@ -606,15 +610,19 @@ padding: 6px;
   color: #f02d34;
 }
 .success-wrapper, .cancel-wrapper{
-  background-color: white;
+  background-color: transparent;
   min-height: 60vh;
 
 }
 .success, .cancel{
   width: 1000px;
-margin: auto;
-margin-top: 160px;
-  background-color: #dcdcdc;
+  margin: auto;
+  margin-top: 160px;
+  background: rgba(4, 190, 255, 0.26);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  border: 1px solid rgba(171, 0, 255, 0.34);
   padding: 50px;
   border-radius: 15px;
   display: flex;
@@ -632,12 +640,13 @@ margin-top: 160px;
   margin-top: 15px 0px;
   font-weight: 900;
   font-size: 40px;
-  color:#324d67;
+  color:#FFD369;
 }
 .success .email-msg{
    font-size: 16px;
   font-weight: 600;
   text-align: center;
+  color: #fff;
 }
 .cancel p{
   font-size: 20px;
@@ -649,10 +658,11 @@ margin-top: 160px;
   text-align: center;
   margin: 10px;
   margin-top: 30px;
+  color: #fff;
 }
 .success .description .email{
   margin-left: 5px;
-  color: #f02d34;
+  color: #FFD369;
 }
 .product-max-qty{
   margin-top: 10px;
