@@ -15,17 +15,12 @@ After you reviewed the shopping cart you can choose to pay using the safe Stripe
 
 ## Depedencies for Build
 
- •	Sanity client and sanity image-url used those to dynamically change the banners and products from application.
- 
- •	Stripe because is the most popular payment service allowing to process real transaction right inside of my application
- 
- •	Canvas-confetti package that going to show a nice confetti animation once the order is fulfilled
- 
- •	Next-sanity-image to process the images
- 
- •	React-hot-toast to provide that nice banner-message as soon as something happens like a notification
- 
- •	React-icons for a great icons pack for my application
+ -	Sanity client and sanity image-url used those to dynamically change the banners and products from application.
+ -	Stripe because is the most popular payment service allowing to process real transaction right inside of my application
+ -	Canvas-confetti package that going to show a nice confetti animation once the order is fulfilled
+ -	Next-sanity-image to process the images
+ -	React-hot-toast to provide that nice banner-message as soon as something happens like a notification
+ -	React-icons for a great icons pack for my application
 
 
 ### App Demo
