@@ -1,8 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# About
 
-## Getting Started
-
-First, run the development server:
+In this e-commerce NextJs application you can made purchases of different products. Here you will have a shopping cart too, where you can review all the products that you added and you want to buy them. Also, every product on the page has a unique page where you can find more products images, a description of that specific product, a quantity toggle to choose how many products of the same type you want to buy and buttons to add to cart or buy the product right away. Here you will have a section of recommended products that you may also like.
 
 ```bash
 npm run dev
