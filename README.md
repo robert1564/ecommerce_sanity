@@ -36,4 +36,5 @@ Here is a demo for this application. :)
 
 ## Full Documentation [English]
 
-[Ecommerce_NextJS_documentation.pdf](https://github.com/robert1564/ecommerce_sanity/files/10708531/Ecommerce_NextJS_documentation.pdf)
+[Ecommerce_NextJS_documentation.pdf](https://github.com/robert1564/ecommerce_sanity/files/10708536/Ecommerce_NextJS_documentation.pdf)
+
