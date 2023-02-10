@@ -29,6 +29,8 @@ Here is a demo for this application. :)
 
 ### https://ecommerce-sanity-rjxx-git-main-robert1564.vercel.app/
 
-### Main Page Overview
+### Application Overview
 
 ![image](https://user-images.githubusercontent.com/52401139/218121584-0e4f7bc5-b755-4b73-a2ba-8be9bac6cfc1.png)
+![image](https://user-images.githubusercontent.com/52401139/218121832-002b7ea9-c308-41b0-a016-3eb6477f507a.png)
+
